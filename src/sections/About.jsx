@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import p from "../assets/p.jpg";
+import p from "../assets/p.JPG"
 
 export default function About() {
   return (
@@ -37,7 +37,7 @@ export default function About() {
             
             <div className="absolute inset-0 " />
            
-            <img src={p} alt="test" />
+            <img src={p} alt="profile" />
           </motion.div>
 
           {/* Name + Role + Bio + CTAs */}

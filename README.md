@@ -140,9 +140,7 @@ Update DNS settings from your domain provider (Vercel/Netlify will give you reco
  ✅ Works perfectly on mobile, tablet, and desktop
  ✅ Free deployment with Vercel/Netlify in minutes
 
-🔹 7. Live Demo
-Before customizing, you can check the live version of this portfolio here:
- 👉 gauravbits.in
+
 
 🎯 Final Notes
 This portfolio is not just a template—it’s a ready-to-use professional website that can help you:
