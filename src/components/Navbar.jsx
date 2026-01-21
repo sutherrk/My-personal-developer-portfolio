@@ -1,7 +1,9 @@
 import { useState, useEffect, useRef } from "react";
 import OverlayMenu from "./OverlayMenu";
 import { FiMenu } from "react-icons/fi";
-import Logo from "../assets/Logo.ParticlesBackground"; // Adjust path
+import Logo from "../assets/Logo.png";
+import ParticlesBackground from "./ParticlesBackground";
+ //Adjust path
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
